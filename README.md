@@ -41,7 +41,14 @@ ecommerce-sales-analysis/
 
 ## 📊 Dashboard Preview
 
+## Dashboard Overview
 ![Dashboard Overview](screenshots/dashboard_overview.png)
+
+## KPIs
+![KPI Section](screenshots/kpi_section.png)
+
+## Charts
+![Charts Section](screenshots/charts_section.png)
 
 ## 📌 Key Insights
 
@@ -54,6 +61,7 @@ ecommerce-sales-analysis/
 2. Run queries from `analysis_queries.sql`
 3. Open `ecommerce_dashboard.pbix` in Power BI
 4. Refresh data and explore insights
+
 
 
 
